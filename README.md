@@ -1,6 +1,6 @@
 # ITime: Multi-view Deep Markov Models for Time Series Anomaly Detection
 
-This is the official repository of the paper Multi-view Deep Markov Models for Time Series Anomaly Detection [Link](). The proposed model, called ITime, aims to find time steps in time series instances that have inconsistent features across multiple views.
+This is the official repository of the paper Multi-view Deep Markov Models for Time Series Anomaly Detection [Add link later](). The proposed model, called ITime, aims to find time steps in time series instances that have inconsistent features across multiple views.
 
 ## Install Python Environment
 
